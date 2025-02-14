@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      行测
-subtitle:   政治理论
+subtitle:   政治理论-习题
 date:       2025-2-13
 author:     JS
 header-img: img/post-bg-cook.jpg
