@@ -4,7 +4,7 @@ title:      申论
 subtitle:   申论-解题思路
 date:       2025-2-15
 author:     JS
-header-img: img/post-bg-cook.jpg
+header-img: https://raw.githubusercontent.com/about300/about300.github.io/master/img/sucai.jpg
 catalog: true
 tags:
     - 申论
