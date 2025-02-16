@@ -1,11 +1,13 @@
 ---
 layout:     post
-title:      晨读材料
+title:      申论
+subtitle:   晨读材料
 date:       2024-9-30
 author:     JS
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
+    - 申论
     - 晨读
     - 学习
 ---
@@ -28,7 +30,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/about300/about300.github.io/master/img/2a2d7eea4de51f03c9a3d7d1ffc698826a678e880dd400f2a5387e285423906e.jpg)  
 
-#### 晨读小结 
+### 晨读小结 
 
 1.核心内容：维护生态安全人人有责  
 2.理论总结:  
@@ -66,7 +68,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/about300/about300.github.io/master/img/fba2ea1756c5c3249a05c71e3efa0a6381a155ca05a2ec1f547e914cc20f17b0.jpg)  
 
-#### 晨读小结 
+### 晨读小结 
 
 1.核心内容：为基层减负切莫“点到为止”  
 2.理论总结:  
@@ -273,7 +275,7 @@ tags:
 
 华图在线微信公众号公考讯息繁多，我帮你整理  
 
-自觉做对党忠诚老实的模范践行者  
+# 自觉做对党忠诚老实的模范践行者  
 
 华国在线V.HUATU.COM  
 
