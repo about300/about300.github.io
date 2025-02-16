@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      晨读材料
-date:       2024-9-30
+date:       2024-9
 author:     JS
 header-img: img/post-bg-cook.jpg
 catalog: true
