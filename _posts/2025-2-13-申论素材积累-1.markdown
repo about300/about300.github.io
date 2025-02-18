@@ -4,7 +4,7 @@ title:      申论
 subtitle:   晨读材料
 date:       2025-2-13
 author:     JS
-header-img: https://raw.githubusercontent.com/about300/about300.github.io/master/img/sucai.jpg
+header-img: img/header.jpg
 catalog: true
 tags:
     - 学习
