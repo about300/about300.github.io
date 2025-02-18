@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+CClong Blog](https://about300.mycloudshare.org)
 ================================
 
 > I never expected this to become popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](https://raw.githubusercontent.com/about300/about300.github.io/master/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
