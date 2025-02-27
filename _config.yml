@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "G-ZDPGTE9ZB8" # Format: UA-xxxxxx-xx
-ga_domain: about300.mycloudshare.org
+ga_domain: about300.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
