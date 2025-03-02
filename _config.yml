@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-10301384285-1" # Format: UA-xxxxxx-xx
-ga_domain: auto
+ga_track_id: "UA-10330691971" # Format: UA-xxxxxx-xx
+ga_domain: about300.mycloudshare.org
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
